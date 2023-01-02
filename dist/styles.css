@@ -12,9 +12,20 @@
 
 .ribs {
     width: 50vw;
-    height: auto; 
+    height: auto 
 }
 
 .welcome {
     width: 50vw;
+}
+
+#buttons {
+    width: 50vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    height: 25px;
+    width: 100px;
 }
